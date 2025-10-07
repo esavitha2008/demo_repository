@@ -29,6 +29,7 @@ h1{
     height: 100vh;
     justify-content: center;
     gap: 50px;
+    align-items: center;
 
 }
 .card p{
@@ -43,6 +44,8 @@ h1{
 }
 .color_1{
     background-color: rgb(245, 210, 245);
+    text-align: center;
+    font-size: 30px;
 
 }
 .color_2{
@@ -51,9 +54,12 @@ h1{
 }
 .color_3{
     background-color: rgb(157, 172, 237);
+    text-align: left;
+    
 
 }
 .color_4{
     background-color: rgb(185, 241, 214);
 
 }
+
